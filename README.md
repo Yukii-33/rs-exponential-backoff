@@ -1,13 +1,10 @@
-## Exponential Backoff with Jitter
+# Exponential backoff with jitter
 
-```python
 ```
 src/lib.rs
 ```
-```
+See the test next to the source for usage.
 
-Check the accompanying test for examples on how to use it.
+Tiny, dependency-free exponential-backoff delay calculator with full jitter.
 
-Minimalist, standalone exponential-backoff delay tool with built-in jitter.
-
-Pure standard library, no external dependencies or services needed.
+No dependencies, no service to run — just the standard library.
