@@ -3,8 +3,9 @@
 ```
 src/lib.rs
 ```
+
 See the test next to the source for usage.
 
-Tiny, dependency-free exponential-backoff delay calculator with full jitter.
+A small, dependency-free delay calculator for exponential backoff with full jitter.
 
-No dependencies, no service to run — just the standard library.
+Standard library only. No external packages, no daemon, nothing to configure.
