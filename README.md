@@ -4,8 +4,8 @@
 src/lib.rs
 ```
 
-See the test next to the source for usage.
+Run the Rust Exponential Backoff test next to the implementation for concrete examples.
 
-A small, dependency-free delay calculator for exponential backoff with full jitter.
+Tiny, dependency-free exponential-backoff delay calculator with full jitter.
 
-Standard library only. No external packages, no daemon, nothing to configure.
+Rust Exponential Backoff uses only the rust standard library; there is no service or dependency to install.
